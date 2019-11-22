@@ -1,4 +1,5 @@
-# Ruby Inheritance Lab
+you access the portion where i can past my code to this chat
+the command # Ruby Inheritance Lab
 
 ## Objectives
 
